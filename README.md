@@ -1,6 +1,7 @@
 # 🐨 Ale Glez
 
 **`Computer Engineering Student`**
+
 I'm a computer engineering student with a strong passion for technology and its potential to solve real-world problems.
 As a student, I'm constantly seeking opportunities to improve my skills and knowledge in the field. I'm particularly interested in iOS app development and cybersecurity, and I've been working on personal projects to hone my skills in these areas.
 Overall, I'm a hardworking, dedicated student with a passion for technology and a commitment to making a positive impact. 
