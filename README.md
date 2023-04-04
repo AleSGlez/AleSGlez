@@ -7,7 +7,7 @@ Hello World! I'm a tech enthusiast with a strong interest in iOS app development
 I'm always eager to learn and explore new ideas and technologies, and I'm committed to staying up-to-date with the latest trends and best practices in the field. I'm also passionate about promoting diversity and inclusion in tech, and I'm dedicated to ensuring that technology is accessible and equitable for everyone.
 ---
 ###Languages & Tools
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
           
           
 
