@@ -21,7 +21,3 @@ align="centre" ![](https://github-readme-stats.vercel.app/api?username=AleSGlez&
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aleglez28/) 
 
----
-[![](https://visitcount.itsvg.in/api?id=AleSGlez&icon=5&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
