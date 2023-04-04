@@ -16,7 +16,7 @@ I'm always eager to learn and explore new ideas and technologies, and I'm commit
 #
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AleSGlez&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+align="centre" ![](https://github-readme-stats.vercel.app/api?username=AleSGlez&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aleglez28/) 
