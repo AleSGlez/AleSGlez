@@ -13,7 +13,7 @@ I'm always eager to learn and explore new ideas and technologies, and I'm commit
 <img align="left" alt="Xcode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />            
 
 <br/>          
-# 
+<br/>
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AleSGlez&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
