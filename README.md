@@ -17,3 +17,6 @@ I'm always eager to learn and explore new ideas and technologies, and I'm commit
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AleSGlez&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="aleglez28" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/aleglez28/en?trk=profile-badge">Alejandra González</a></div>
+              
